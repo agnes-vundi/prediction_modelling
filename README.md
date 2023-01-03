@@ -11,5 +11,4 @@ youtube, facebook and newspaper respectively.
 
 **Dataset:**
 The data used was that of a marketing dataset (datarium package) which contains the impact of three advertising medias (youtube, facebook and newspaper) on sales. These are used 
-for predicting sales units on the basis of the amount of money in thousands of dollars spent in the three advertising medias. Data are the advertising budget in thousands of dollars along with the sales. The advertising experiment has been repeated 200 times with different budgets and the observed sales have been 
-# recorded.
+for predicting sales units on the basis of the amount of money in thousands of dollars spent in the three advertising medias. Data are the advertising budget in thousands of dollars along with the sales. The advertising experiment has been repeated 200 times with different budgets and the observed sales have been recorded.
